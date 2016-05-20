@@ -1,0 +1,9 @@
+c:\users\cc\documents\visual studio 2013\Projects\ReversedLettersCS\ReversedLettersCS\bin\Debug\ReversedLettersCS.exe.config
+C:\Users\CC\Documents\Visual Studio 2013\Projects\ReversedLettersCS\ReversedLettersCS\bin\Debug\ReversedLettersCS.exe
+C:\Users\CC\Documents\Visual Studio 2013\Projects\ReversedLettersCS\ReversedLettersCS\bin\Debug\ReversedLettersCS.pdb
+C:\Users\CC\Documents\Visual Studio 2013\Projects\ReversedLettersCS\ReversedLettersCS\obj\Debug\ReversedLettersCS.csprojResolveAssemblyReference.cache
+C:\Users\CC\Documents\Visual Studio 2013\Projects\ReversedLettersCS\ReversedLettersCS\obj\Debug\ReversedLettersCS.exe
+C:\Users\CC\Documents\Visual Studio 2013\Projects\ReversedLettersCS\ReversedLettersCS\obj\Debug\ReversedLettersCS.pdb
+C:\Users\CC\Documents\GitHub\Csharp\CS ReversedLetters\ReversedLettersCS\bin\Debug\ReversedLettersCS.exe.config
+C:\Users\CC\Documents\GitHub\Csharp\CS ReversedLetters\ReversedLettersCS\obj\Debug\ReversedLettersCS.exe
+C:\Users\CC\Documents\GitHub\Csharp\CS ReversedLetters\ReversedLettersCS\obj\Debug\ReversedLettersCS.pdb

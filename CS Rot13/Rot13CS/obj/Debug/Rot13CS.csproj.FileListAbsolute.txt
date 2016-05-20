@@ -1,0 +1,6 @@
+c:\users\cc\documents\visual studio 2013\Projects\Rot13CS\Rot13CS\bin\Debug\Rot13CS.exe.config
+c:\users\cc\documents\visual studio 2013\Projects\Rot13CS\Rot13CS\obj\Debug\Rot13CS.csprojResolveAssemblyReference.cache
+c:\users\cc\documents\visual studio 2013\Projects\Rot13CS\Rot13CS\bin\Debug\Rot13CS.exe
+c:\users\cc\documents\visual studio 2013\Projects\Rot13CS\Rot13CS\bin\Debug\Rot13CS.pdb
+c:\users\cc\documents\visual studio 2013\Projects\Rot13CS\Rot13CS\obj\Debug\Rot13CS.exe
+c:\users\cc\documents\visual studio 2013\Projects\Rot13CS\Rot13CS\obj\Debug\Rot13CS.pdb

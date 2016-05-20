@@ -1,0 +1,5 @@
+C:\Users\Brandon\Desktop\ttt\ttt\ttt\bin\Debug\ttt.exe
+C:\Users\Brandon\Desktop\ttt\ttt\ttt\bin\Debug\ttt.pdb
+C:\Users\Brandon\Desktop\ttt\ttt\ttt\obj\x86\Debug\ttt.exe
+C:\Users\Brandon\Desktop\ttt\ttt\ttt\obj\x86\Debug\ttt.pdb
+C:\Users\Brandon\Desktop\ttt\ttt\ttt\obj\x86\Debug\ttt.csprojResolveAssemblyReference.cache

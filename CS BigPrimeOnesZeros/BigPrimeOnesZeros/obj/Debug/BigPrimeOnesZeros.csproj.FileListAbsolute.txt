@@ -1,0 +1,6 @@
+c:\users\cc\documents\visual studio 2013\Projects\BigPrimeOnesZeros\BigPrimeOnesZeros\bin\Debug\BigPrimeOnesZeros.exe.config
+c:\users\cc\documents\visual studio 2013\Projects\BigPrimeOnesZeros\BigPrimeOnesZeros\bin\Debug\BigPrimeOnesZeros.exe
+c:\users\cc\documents\visual studio 2013\Projects\BigPrimeOnesZeros\BigPrimeOnesZeros\bin\Debug\BigPrimeOnesZeros.pdb
+c:\users\cc\documents\visual studio 2013\Projects\BigPrimeOnesZeros\BigPrimeOnesZeros\obj\Debug\BigPrimeOnesZeros.csprojResolveAssemblyReference.cache
+c:\users\cc\documents\visual studio 2013\Projects\BigPrimeOnesZeros\BigPrimeOnesZeros\obj\Debug\BigPrimeOnesZeros.exe
+c:\users\cc\documents\visual studio 2013\Projects\BigPrimeOnesZeros\BigPrimeOnesZeros\obj\Debug\BigPrimeOnesZeros.pdb
